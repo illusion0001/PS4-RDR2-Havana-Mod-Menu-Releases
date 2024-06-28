@@ -3,7 +3,6 @@
 Releases for PS4 Mod Menu Havana for Red Dead Redemption 2 by [0x199](https://github.com/0x199) ported to GoldHEN PRX by [illusion](https://github.com/illusion0001)
 
 Credits:
-- [UI Base by Halen84](https://github.com/Halen84/RDR2-Native-Menu-Base)
 - [Menu Base by ethylamine](https://github.com/ethylamine/PS4-RDR-2-Menu-Base)
 
 ## Usage
